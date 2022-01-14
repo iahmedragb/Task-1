@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1642164148 source:c:\users\ahmed\desktop\sprints\task 1\x-o game\main.c
+	"TicTac.h"
+
+1642163238 c:\users\ahmed\desktop\sprints\task 1\x-o game\tictac.h
+	<stdio.h>
+	<stdlib.h>
+
+1642164179 source:c:\users\ahmed\desktop\sprints\task 1\x-o game\tictac.c
+	"TicTac.h"
+
